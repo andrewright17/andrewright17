@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @andrewright17
-- 👀 I’m interested in: Mathematics, Data Science, and Machine Learning
-- 🌱 I’m currently learning: Data Science
-- 💞️ I’m looking to collaborate on: Interesting applications of Data Science and Machine Learning
-- 📫 How to reach me -> Email: andrew98wright@gmail.com
+# Hi, I'm Andrew Wright 👋  
 
-<!---
-andrewright17/andrewright17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 PhD student in **Biomedical Data Science & Informatics**  
+💻 Data Scientist | Software Developer | Healthcare Technologist  
+
+I combine **mathematical modeling, AI/ML, and healthcare data** to build tools that improve patient outcomes and power next-generation health applications.  
+
+---
+
+### ⚡ Interests
+- Clinical informatics & patient safety 🚑  
+- Applied AI & intelligent agents 🤖  
+- Real-time health data streaming 📊  
+
+---
+
+### 🛠️ Tech Stack
+- **Languages**: Python, SQL (MS SQL Server, Oracle, PostgreSQL), R, Ruby, Java
+- **Frameworks**: Rails, React, FastAPI, Spark  
+- **Data**: MongoDB, FHIR/SMART on FHIR, Pandas, PyTorch, scikit-learn  
+- **DevOps/Tools**: Arch Linux, Hyprland, Docker, GitHub Actions   
+
+---
+⭐️ *“Building systems at the intersection of data, healthcare, and intelligence.”*  
